@@ -15,6 +15,14 @@ Nếu bạn dùng Windows/PowerShell và gặp lỗi `npm.ps1 cannot be loaded`,
 
 > Lưu ý: React và ReactDOM đã được ghim tại `19.2.3` để tương thích với React Three Fiber. Không dùng `--force` hoặc `--legacy-peer-deps` khi cài đặt.
 
+## Đưa website lên GitHub Pages
+
+Workflow tại `.github/workflows/deploy-pages.yml` sẽ tự build và deploy mỗi khi bạn push vào nhánh `main`. Trên GitHub, vào **Settings → Pages → Build and deployment**, chọn **GitHub Actions** một lần. Sau khi workflow hoàn tất, trang sẽ có tại:
+
+```text
+https://giahuy1236789.github.io/birthday-3d-web/
+```
+
 ## Cá nhân hoá
 
 Mọi nội dung được tập trung tại [src/data/birthdayData.js](src/data/birthdayData.js):

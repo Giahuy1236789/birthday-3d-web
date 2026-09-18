@@ -1,3 +1,5 @@
+const publicAsset = (path) => `${import.meta.env.BASE_URL}${path.replace(/^\//, '')}`
+
 export const birthdayData = {
   // Đổi các giá trị trong file này để cá nhân hoá toàn bộ website.
   name: 'Người đặc biệt',
@@ -9,14 +11,14 @@ Mong rằng những điều bạn đang ấp ủ sẽ dần trở thành hiện 
 Hy vọng mỗi ngày của tuổi mới đều có thêm một lý do để bạn mỉm cười.
 
 Happy Birthday! 🎂✨`,
-  music: '/music/birthday.mp3',
+  music: publicAsset('/music/birthday.mp3'),
   memories: [
-    '/images/photo1.svg',
-    '/images/photo2.svg',
-    '/images/photo3.svg',
-    '/images/photo4.svg',
-    '/images/photo5.svg',
-    '/images/photo6.svg',
+    publicAsset('/images/photo1.svg'),
+    publicAsset('/images/photo2.svg'),
+    publicAsset('/images/photo3.svg'),
+    publicAsset('/images/photo4.svg'),
+    publicAsset('/images/photo5.svg'),
+    publicAsset('/images/photo6.svg'),
   ],
   memoryCaptions: [
     'Một chiều rực nắng',
