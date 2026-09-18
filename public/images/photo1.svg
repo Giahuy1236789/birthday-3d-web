@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" fill="none">
+  <defs><linearGradient id="a" x1="80" y1="40" x2="700" y2="760" gradientUnits="userSpaceOnUse"><stop stop-color="#F8C5D9"/><stop offset=".55" stop-color="#B493D4"/><stop offset="1" stop-color="#5A6CA2"/></linearGradient><filter id="b"><feGaussianBlur stdDeviation="32"/></filter></defs>
+  <rect width="800" height="800" fill="url(#a)"/><circle cx="154" cy="152" r="156" fill="#FFF2D4" fill-opacity=".76" filter="url(#b)"/><circle cx="606" cy="527" r="215" fill="#604D97" fill-opacity=".48" filter="url(#b)"/>
+  <path d="M0 574C145 497 222 596 352 544C493 488 599 418 800 472V800H0V574Z" fill="#321F66" fill-opacity=".42"/><path d="M248 482C325 359 396 259 535 183" stroke="#FFF2E5" stroke-width="15" stroke-linecap="round" opacity=".75"/><circle cx="554" cy="171" r="32" fill="#FFF0C4"/><path d="M205 582C254 507 317 493 383 524C328 582 278 600 205 582Z" fill="#FFD9AD" fill-opacity=".8"/>
+  <text x="52" y="720" fill="#FFF8F0" font-family="Georgia,serif" font-size="46" font-style="italic">soft afternoon</text>
+</svg>

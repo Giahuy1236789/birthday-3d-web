@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" fill="none">
+  <defs><linearGradient id="a" x1="54" y1="25" x2="743" y2="778" gradientUnits="userSpaceOnUse"><stop stop-color="#F7C88A"/><stop offset=".46" stop-color="#DA8FAD"/><stop offset="1" stop-color="#5D79A6"/></linearGradient><filter id="b"><feGaussianBlur stdDeviation="25"/></filter></defs>
+  <rect width="800" height="800" fill="url(#a)"/><circle cx="136" cy="99" r="148" fill="#FFF4C7" fill-opacity=".68" filter="url(#b)"/><circle cx="650" cy="590" r="209" fill="#412B6C" fill-opacity=".38" filter="url(#b)"/>
+  <path d="M98 535C148 413 278 322 424 368C539 405 620 507 690 663" stroke="#FFF4DB" stroke-width="12" stroke-linecap="round" opacity=".75"/><path d="M194 547C289 437 396 436 472 532C399 583 300 602 194 547Z" fill="#E87EA7" fill-opacity=".72"/><path d="M413 274C460 221 520 196 583 193" stroke="#FFEBCB" stroke-width="10" stroke-linecap="round"/><circle cx="600" cy="191" r="24" fill="#FFE9B6"/>
+  <text x="53" y="721" fill="#FFF9F0" font-family="Georgia,serif" font-size="46" font-style="italic">golden hour</text>
+</svg>

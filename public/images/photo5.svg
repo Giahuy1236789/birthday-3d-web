@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" fill="none">
+  <defs><linearGradient id="a" x1="74" y1="17" x2="725" y2="779" gradientUnits="userSpaceOnUse"><stop stop-color="#F2CA9D"/><stop offset=".48" stop-color="#B88ACB"/><stop offset="1" stop-color="#5D83B1"/></linearGradient><filter id="b"><feGaussianBlur stdDeviation="28"/></filter></defs>
+  <rect width="800" height="800" fill="url(#a)"/><circle cx="168" cy="160" r="175" fill="#FFF2D5" fill-opacity=".68" filter="url(#b)"/><circle cx="617" cy="610" r="229" fill="#554083" fill-opacity=".37" filter="url(#b)"/>
+  <path d="M108 393C236 423 324 258 465 297C574 327 618 441 706 485" stroke="#FFF8ED" stroke-width="14" stroke-linecap="round" opacity=".76"/><path d="M179 531C267 474 361 490 420 570C335 604 244 604 179 531Z" fill="#E997AD" fill-opacity=".73"/><circle cx="622" cy="239" r="36" fill="#FFE8B5"/><path d="M594 287C610 303 628 303 648 287" stroke="#FFF2CE" stroke-width="8" stroke-linecap="round"/><text x="52" y="720" fill="#FFF9F0" font-family="Georgia,serif" font-size="46" font-style="italic">a quiet joy</text>
+</svg>

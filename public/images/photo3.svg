@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" fill="none">
+  <defs><linearGradient id="a" x1="61" y1="10" x2="753" y2="790" gradientUnits="userSpaceOnUse"><stop stop-color="#DBC7F4"/><stop offset=".52" stop-color="#91A6CF"/><stop offset="1" stop-color="#EAAAC5"/></linearGradient><filter id="b"><feGaussianBlur stdDeviation="30"/></filter></defs>
+  <rect width="800" height="800" fill="url(#a)"/><circle cx="613" cy="169" r="177" fill="#FFF4D0" fill-opacity=".6" filter="url(#b)"/><circle cx="196" cy="671" r="236" fill="#7860A4" fill-opacity=".35" filter="url(#b)"/>
+  <path d="M122 387C217 244 358 215 475 328C554 404 583 492 711 538" stroke="#FFF8EE" stroke-width="13" stroke-linecap="round" opacity=".78"/><path d="M301 191C330 232 355 265 401 281" stroke="#F7DFAC" stroke-width="10" stroke-linecap="round"/><circle cx="288" cy="174" r="23" fill="#FFE2AA"/>
+  <path d="M111 585C207 546 306 555 376 626C304 670 194 681 111 585Z" fill="#F5C0D5" fill-opacity=".75"/><text x="52" y="720" fill="#FFF9F2" font-family="Georgia,serif" font-size="46" font-style="italic">little wonders</text>
+</svg>

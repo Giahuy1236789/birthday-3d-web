@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" fill="none">
+  <defs><linearGradient id="a" x1="38" y1="16" x2="755" y2="777" gradientUnits="userSpaceOnUse"><stop stop-color="#A6C5DA"/><stop offset=".45" stop-color="#DA9EBE"/><stop offset="1" stop-color="#F3C98A"/></linearGradient><filter id="b"><feGaussianBlur stdDeviation="29"/></filter></defs>
+  <rect width="800" height="800" fill="url(#a)"/><circle cx="648" cy="121" r="167" fill="#FFF7D6" fill-opacity=".67" filter="url(#b)"/><circle cx="168" cy="617" r="230" fill="#5B6597" fill-opacity=".32" filter="url(#b)"/>
+  <path d="M95 514C190 465 264 319 382 310C504 302 559 451 699 423" stroke="#FFF7EC" stroke-width="14" stroke-linecap="round" opacity=".8"/><path d="M376 516C426 450 488 435 549 478C510 534 446 557 376 516Z" fill="#EB86AD" fill-opacity=".72"/><path d="M155 289L185 227L218 289L185 330L155 289Z" fill="#FFF0BC"/><text x="52" y="720" fill="#FFF9F0" font-family="Georgia,serif" font-size="46" font-style="italic">somewhere warm</text>
+</svg>
