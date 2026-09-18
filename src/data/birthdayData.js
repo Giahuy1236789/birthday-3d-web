@@ -2,8 +2,8 @@ const publicAsset = (path) => `${import.meta.env.BASE_URL}${path.replace(/^\//, 
 
 export const birthdayData = {
   // Đổi các giá trị trong file này để cá nhân hoá toàn bộ website.
-  name: 'Người đặc biệt',
-  shortName: 'Bạn',
+  name: 'Mỹ Hợi',
+  shortName: 'Mỹ Hợi',
   message: `Chúc bạn một tuổi mới thật nhiều niềm vui, luôn khỏe mạnh, hạnh phúc và gặp thật nhiều may mắn.
 
 Mong rằng những điều bạn đang ấp ủ sẽ dần trở thành hiện thực.
